@@ -1,0 +1,18 @@
+study: 
+
+react-typescript: project: https://www.freecodecamp.org/news/using-typescript-in-react-apps/
+redux-toolkit: https://www.smashingmagazine.com/2023/05/guide-redux-toolkit-typescript/
+
+
+setup:
+======
+step1: npx create-react-app vin_react_typscript_app --template typescript
+step2: npm install @reduxjs/toolkit react-redux --save
+
+
+
+
+links:
+------
+https://bluelight.co/blog/redux-toolkit-with-typescript
+
